@@ -1,15 +1,15 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <a href="https://www.linkedin.com/in/mochamad-zayyid-09178518b/">
-  <img align="left" alt="Arunsridher's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="zayyid123 LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/zayyid_123/">
-  <img align="left" alt="Arunsridher | Twitter" width="22px" src="http://www.w3.org/2000/svg" />
+<a href="https://github.com/zayyid123">
+  <img align="left" alt="Arunsridher | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=arunsridher)
+![](https://visitor-badge.glitch.me/badge?page_id=zayyid123)
 
-My name is Mochamad Muzayyid Al Hakim and I am a Front-end Developer who is interested in tech related to the front-end.
+My name is <b> Mochamad Muzayyid Al Hakim </b> and I am a <b> Front-end WEB Developer </b> who is interested in tech related to the front-end WEB Developer.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -27,12 +27,10 @@ My name is Mochamad Muzayyid Al Hakim and I am a Front-end Developer who is inte
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ## &#x1f4c8; GitHub Stats
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zayyid123&show_icons=true&theme=radical" />
+</p>
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunsridher&show_icons=true&locale=en&layout=compact&theme=radical" alt="arunsridher" /></p>
+<p align="left" ><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zayyid123&theme=radical" alt="zayyid123" /></p>
 
- 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunsridher&theme=radical" alt="arunsridher" /></p>
- 
- <br />
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arunsridher&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zayyid123&show_icons=true&locale=en&layout=compact&theme=radical" alt="zayyid123" /></p>
