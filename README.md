@@ -4,7 +4,7 @@
   <img align="left" alt="Arunsridher's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/zayyid_123/">
-  <img align="left" alt="Arunsridher | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
+  <img align="left" alt="Arunsridher | Twitter" width="22px" src="http://www.w3.org/2000/svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=arunsridher)
