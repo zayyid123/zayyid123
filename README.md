@@ -1,7 +1,3 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-
-![](https://visitor-badge.glitch.me/badge?page_id=zayyid123)
-
 My name is <b> Mochamad Muzayyid Al Hakim </b> and I am a <b> Front-end WEB Developer </b> who is interested in tech related to the front-end WEB Developer.
 
 ### 🛠 &nbsp;Tech Stack
