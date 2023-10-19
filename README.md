@@ -1,12 +1,5 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<a href="https://www.linkedin.com/in/mochamad-zayyid-09178518b/">
-  <img align="left" alt="zayyid123 LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://github.com/zayyid123">
-  <img align="left" alt="Arunsridher | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
-</a>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=zayyid123)
 
 My name is <b> Mochamad Muzayyid Al Hakim </b> and I am a <b> Front-end WEB Developer </b> who is interested in tech related to the front-end WEB Developer.
