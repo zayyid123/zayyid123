@@ -1,4 +1,6 @@
-My name is <b> Mochamad Muzayyid Al Hakim </b> and I am a <b> Front-end WEB Developer </b> who is interested in tech related to the front-end WEB Developer.
+# Mochamad Muzayyid Al Hakim | Frontend Developer
+
+Highly skilled and motivated Front-End Web Developer with a strong proficiency in React.js. Equipped with a passion for crafting visually appealing and intuitive user interfaces, I am dedicated to delivering exceptional user experiences. With a keen eye for design and a commitment to staying updated with the latest industry trends, I strive to create responsive and dynamic web applications.
 
 ### 🛠 &nbsp;Tech Stack
 
