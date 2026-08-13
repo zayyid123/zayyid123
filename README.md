@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Mochamad%20Muzayyid&subText=Frontend%20Developer&fontSize=42&subTextSize=18&animation=fadeIn" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:41b883,100:15803d&height=220&section=header&text=Mochamad%20Muzayyid&subText=Frontend%20Developer&fontSize=42&subTextSize=18&animation=fadeIn" alt="Header Banner" />
 </p>
 
 <p align="center">
@@ -50,10 +50,10 @@ Highly skilled and motivated Front-End Web Developer with a strong proficiency i
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zayyid123&show_icons=true&theme=radical&hide_border=true" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zayyid123&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zayyid123&show_icons=true&theme=vue-dark&hide_border=true" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zayyid123&show_icons=true&locale=en&layout=compact&theme=vue-dark&hide_border=true" height="195" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zayyid123&theme=radical&hide_border=true" height="195" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=zayyid123&theme=vue-dark&hide_border=true" height="195" alt="GitHub Streak" />
 </p>
