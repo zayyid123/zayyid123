@@ -50,8 +50,8 @@ Highly skilled and motivated Front-End Web Developer with a strong proficiency i
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zayyid123&show_icons=true&theme=vue-dark&hide_border=true" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zayyid123&show_icons=true&locale=en&layout=compact&theme=vue-dark&hide_border=true" height="195" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=zayyid123&show_icons=true&theme=vue-dark&hide_border=true" height="195" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=zayyid123&show_icons=true&locale=en&layout=compact&theme=vue-dark&hide_border=true" height="195" alt="Top Languages" />
 </p>
 
 <p align="center">
