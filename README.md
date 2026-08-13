@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/zayyid123">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Mochamad+Muzayyid!+👋;Frontend+Developer;React.js+Specialist&font=Fira+Code&center=true&width=640&height=45&color=41B883&vCenter=true&pause=1000&size=28" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Mochamad+Muzayyid!;Frontend+Developer;React.js+Specialist&font=Fira+Code&center=true&width=640&height=45&color=41B883&vCenter=true&pause=1000&size=28" alt="Typing SVG" />
   </a>
 </p>
 
